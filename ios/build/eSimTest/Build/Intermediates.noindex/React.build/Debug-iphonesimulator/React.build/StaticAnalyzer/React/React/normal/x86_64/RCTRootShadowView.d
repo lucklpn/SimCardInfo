@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/luciano1/projetos/eSimTest/node_modules/react-native/React/Views/RCTRootShadowView.m \
+  /Users/luciano1/projetos/eSimTest/node_modules/react-native/React/Views/RCTRootShadowView.h \
+  /Users/luciano1/projetos/eSimTest/node_modules/react-native/React/Views/RCTShadowView.h \
+  /Users/luciano1/projetos/eSimTest/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/luciano1/projetos/eSimTest/node_modules/react-native/React/Views/RCTLayout.h \
+  /Users/luciano1/projetos/eSimTest/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/luciano1/projetos/eSimTest/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/luciano1/projetos/eSimTest/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/luciano1/projetos/eSimTest/ios/build/eSimTest/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/luciano1/projetos/eSimTest/ios/build/eSimTest/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/luciano1/projetos/eSimTest/ios/build/eSimTest/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/luciano1/projetos/eSimTest/ios/build/eSimTest/Build/Products/Debug-iphonesimulator/include/yoga/YGValue.h \
+  /Users/luciano1/projetos/eSimTest/node_modules/react-native/React/Base/RCTRootView.h \
+  /Users/luciano1/projetos/eSimTest/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/luciano1/projetos/eSimTest/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/luciano1/projetos/eSimTest/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/luciano1/projetos/eSimTest/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/luciano1/projetos/eSimTest/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/luciano1/projetos/eSimTest/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/luciano1/projetos/eSimTest/node_modules/react-native/React/Modules/RCTI18nUtil.h \
+  /Users/luciano1/projetos/eSimTest/node_modules/react-native/React/Views/RCTShadowView+Layout.h

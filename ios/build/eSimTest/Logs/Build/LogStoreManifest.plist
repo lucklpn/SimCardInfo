@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>301EC2AC-F458-4B01-891C-62D271622B30</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>301EC2AC-F458-4B01-891C-62D271622B30.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>eSimTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>eSimTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project eSimTest with scheme eSimTest and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>577936073.87294996</real>
+			<key>timeStoppedRecording</key>
+			<real>577936092.09107196</real>
+			<key>title</key>
+			<string>Building project eSimTest with scheme eSimTest and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>301EC2AC-F458-4B01-891C-62D271622B30</string>
+		</dict>
+		<key>46475152-2A3D-46D1-8B32-67EE2A5552AA</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>46475152-2A3D-46D1-8B32-67EE2A5552AA.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>eSimTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>eSimTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project eSimTest with scheme eSimTest and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>578015833.05300295</real>
+			<key>timeStoppedRecording</key>
+			<real>578015851.59449601</real>
+			<key>title</key>
+			<string>Building project eSimTest with scheme eSimTest and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>46475152-2A3D-46D1-8B32-67EE2A5552AA</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
